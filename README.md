@@ -1,2 +1,2 @@
 # titanic-survival-prediction
-titanic survival prediction using machine learning
+In this project, I have created a decision functions that attempt to predict survival outcomes from the 1912 Titanic disaster based on each passenger’s features, such as sex and age. I start with a simple algorithm and increase its complexity until I am\ to accurately predict the outcomes for at least 80% of the passengers in the provided data. This project will introduce you to some of the concepts of machine learning as you start the Nanodegree program.
